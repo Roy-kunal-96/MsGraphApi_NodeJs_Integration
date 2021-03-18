@@ -1,0 +1,12 @@
+node_modules
+logfile.log
+Api
+.env
+
+
+
+# exclude everything
+dasboard/*
+
+# exception to the rule
+!dasboard/.gitkeep 
